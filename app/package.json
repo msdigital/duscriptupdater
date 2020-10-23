@@ -4,7 +4,7 @@
   "description": "Dual Universer LUA Updater",
   "main": "app.js",
   "author": "msdigital.ch",
-  "license": "GPL-3.0-only",
+  "license": "GNU LGPLv3",
   "dependencies": {
     "async": "^3.2.0",
     "fs": "0.0.1-security",

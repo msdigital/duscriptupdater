@@ -45,4 +45,4 @@ For example purpose, there are already links to two Scripts inside the `lua_scri
 
 ## License
 
-This project is licensed under GNU General Public License version 3 (GPLv3) - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under GNU Lesser General Public License version 3 (GNU LGPLv3) - see the [LICENSE.md](LICENSE.md) file for details
